@@ -6,7 +6,6 @@ week_counts.csv
 store_counts.csv
 last_dates.csv
 data_to_arima.csv
-
 predictions_sarimax.csv
 predictions_arima.csv
 predictions_arima_nom.csv
@@ -34,3 +33,18 @@ predictions_exp_smoothing.csv
 predictions_seasonal_naive.csv
 predictions_random_walk.csv
 predictions_holt.csv
+predictions_normalized.csv
+predictions.csv
+scores_simple_models_inc.csv
+predictions_regression_inc.csv
+predictions_seasonal_naive_inc.csv
+predictions_moving_avg_inc.csv
+predictions_mean_inc.csv
+predictions_holt_inc.csv
+predictions_exp_smoothing_inc.csv
+predictions_arima_nom_inc.csv
+models_arima_nom_inc.csv
+scores_df_final.csv
+scores_df_final_inc.csv
+predictions_normalized_inc.csv
+predictions_inc.csv
