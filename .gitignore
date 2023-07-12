@@ -6,9 +6,7 @@ week_counts.csv
 store_counts.csv
 last_dates.csv
 data_to_arima.csv
-product.csv
-sales.csv
-cities.csv
+
 predictions_sarimax.csv
 predictions_arima.csv
 predictions_arima_nom.csv
