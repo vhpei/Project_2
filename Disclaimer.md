@@ -12,7 +12,7 @@ It is your responsibility to ensure compliance with any applicable laws or regul
 redistribution, or modification of the data.
 
 This repository may include links or references to external sources or third-party websites. 
-I have no control over the content, availability, or privacy practices of those external sources.
+We have no control over the content, availability, or privacy practices of those external sources.
 The inclusion of any such links does not necessarily imply a recommendation or endorsement of the views expressed within them.
 
 We reserve the right to modify, update, or remove the content of this repository without prior notice. 
