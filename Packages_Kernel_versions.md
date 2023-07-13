@@ -1,6 +1,6 @@
 In this section the versions of the libraries and of the python itself will be mentioned for compatability problems.  
   
-       Package      |      Version        
+|       Package     |       Version     |  
 |-------------------|-------------------|  
 |pandas             | 1.5.3             |  
 |requests           | 2.28.2            |  
