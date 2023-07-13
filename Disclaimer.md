@@ -1,6 +1,7 @@
-The data files present in this repository has been provided to us, and we do not have knowledge of its origin, 
+The data files, in format .csv, present in this repository have been provided to us, and we do not have knowledge of its origin, 
 accuracy, or completeness. This repository is for personal and non-commercial use only. 
-Any use of the data contained here is at your own risk, regarding the code that was used read [LICENSE.md](https://github.com/vhpei/Projeto_2/blob/main/LICENSE.md).
+Any use of the data contained here is at your own risk. 
+Regarding the code that was used read [LICENSE.md](https://github.com/vhpei/Projeto_2/blob/main/LICENSE.md).
 
 We make no representations or warranties of any kind, express or implied, about the completeness, 
 accuracy, reliability, suitability, or availability of the data. We disclaim any responsibility for any loss, 
