@@ -19,7 +19,7 @@ In this section the versions of the libraries and of the python itself will be m
 |numpy              | 1.23.5            |  
   
 The remaining packages used come built-in module in Python, python and jupyter versions below.  
-  
+|-------------------|-------------------|  
 |IPython            | 8.12.0            |  
 |ipykernel          | 6.22.0            |  
 |jupyter_core       | 5.3.0             |  
