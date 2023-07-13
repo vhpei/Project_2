@@ -1,6 +1,6 @@
 This is free and unencumbered software released into the public domain.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
+Anyone is free to copy, modify, use, compile, or
 distribute this software, for any personal and non-commercial purpose.
 
 In jurisdictions that recognize copyright laws, the author or authors
