@@ -1,8 +1,8 @@
-In this section the versions of the libraries and of the python itself will be mentioned for compatability problems.
-
-       Package      |      Version      
-|-------------------|-------------------|
-|pandas             | 1.5.3             |
+In this section the versions of the libraries and of the python itself will be mentioned for compatability problems.  
+  
+       Package      |      Version        
+|-------------------|-------------------|  
+|pandas             | 1.5.3             |  
 |requests           | 2.28.2            |
 |bs4                | 0.0.1             |
 |beautifulsoup4     | 4.12.2            |
