@@ -72,3 +72,18 @@ Along the notebook it contains comments throughout the code and conclusions for 
             - Prediction
                 - Predictions
                 - Graphs for forecast (testing)
+    - Store S0136
+        - Data Preparation
+        - Simple Models
+            - Linear Regression and Average
+            - Moving Average
+            - Exponential Smoothing
+            - Seasonal Naive
+            - Holt's Linear trend
+        - Auto (S)arima(x) Weekly (revenue)
+        - Save (S)arima(x) models  
+        - Best Model
+        - Graphs for training and test data
+            - Prediction
+                - Predictions
+                - Graphs for forecast (testing)
